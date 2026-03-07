@@ -1,10 +1,17 @@
 ## Hello world, feel at home 👋
 ## 💫 About Me:
-🎓 Estudante de TI no Senai  
-📚 Concluindo o ensino médio  
-🚀 Futuro estudante de ADS  
-💻 Interessado em desenvolvimento e tecnologia
+Olá! Me chamo **Kauê Gabriel Batista**.
 
+Tenho 16 anos e sou estudante de **Tecnologia da Informação no Senai**, atualmente concluindo o ensino médio. Pretendo seguir carreira na área de tecnologia e futuramente cursar **Análise e Desenvolvimento de Sistemas (ADS)**.
+
+Sou apaixonado por programação e tecnologia, e utilizo este perfil para compartilhar meus **projetos, exercícios, anotações e experimentos** enquanto desenvolvo minhas habilidades como programador.
+
+💡 Tenho interesse em:
+- Desenvolvimento de software
+- Aprendizado constante em novas tecnologias
+- Projetos práticos para aprimorar lógica e programação
+
+🚀 Meu objetivo é evoluir continuamente como desenvolvedor e construir projetos cada vez mais completos ao longo da minha jornada na programação.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kauehxz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-gabriel-4aa7373a4/)
