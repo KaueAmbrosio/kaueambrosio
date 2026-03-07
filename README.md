@@ -1,6 +1,6 @@
 ## Hello world, feel at home 👋
 ## 💫 About Me:
-Olá! Me chamo **Kauê Gabriel Batista**.
+Olá! Me chamo **Kauê Gabriel Batista Ambrosio**.
 
 Tenho 16 anos e sou estudante de **Tecnologia da Informação no Senai**, atualmente concluindo o ensino médio. Pretendo seguir carreira na área de tecnologia e futuramente cursar **Análise e Desenvolvimento de Sistemas (ADS)**.
 
