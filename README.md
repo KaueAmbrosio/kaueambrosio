@@ -51,8 +51,8 @@ Meu objetivo é **evoluir continuamente como desenvolvedor** e construir projeto
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueAmbrosio&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueAmbrosio&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KaueAmbrosio&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueAmbrosio&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
