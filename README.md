@@ -1,6 +1,9 @@
 ## Hello world, feel at home 👋
 ## 💫 About Me:
-👨‍💻 Programador
+🎓 Estudante de TI no Senai  
+📚 Concluindo o ensino médio  
+🚀 Futuro estudante de ADS  
+💻 Interessado em desenvolvimento e tecnologia
 
 
 ## 🌐 Socials:
