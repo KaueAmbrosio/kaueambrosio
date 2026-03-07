@@ -40,21 +40,50 @@ Meu objetivo é **evoluir continuamente como desenvolvedor** e construir projeto
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-# 💻 Tech Stack
+<p align="center">
+  <!-- Linha 1: linguagens -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <!-- Linha 2: frontend -->
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <!-- Linha 3: DB / Cloud / Ferramentas -->
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<details>
+  <summary><strong>📚 Nível de familiaridade</strong> — clique para expandir</summary>
+
+  **Usadas no dia a dia / já fiz projetos com:**
+  - C++ - projetos com sensores
+  - Python - projetos com sensores e exercícios  de lógica 
+  - JavaScript — projetos simples e estudos no SENAI  
+  - Git + GitHub — controlar versões dos repositórios  
+  - VS Code — editor principal
+
+  **Estou estudando / praticando:**
+  - React — aprendendo componentes e hooks  
+  - MySQL — consultas e modelagem básica
+
+  **Planejo aprender em breve:**
+  - Deploy de aplicações no AWS / Vercel  
+  - Projetos full-stack com React + Node.js  
+</details>
 ---
 
 # 📊 GitHub Stats
