@@ -84,16 +84,6 @@ Meu objetivo é **evoluir continuamente como desenvolvedor** e construir projeto
   - Deploy de aplicações no AWS / Vercel  
   - Projetos full-stack com React + Node.js  
 </details>
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KaueAmbrosio&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueAmbrosio&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
