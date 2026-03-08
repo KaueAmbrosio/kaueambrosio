@@ -93,10 +93,4 @@ Meu objetivo é **evoluir continuamente como desenvolvedor** e construir projeto
 
 ---
 
-# 👀 Visitors
-
-[![](https://visitcount.itsvg.in/api?id=KaueAmbrosio&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ⭐ Obrigado por visitar meu perfil!
