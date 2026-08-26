@@ -10,7 +10,7 @@
 
 Olá! Me chamo **Kauê Gabriel Batista Ambrosio**.
 
-Tenho **16 anos** e sou estudante de **Tecnologia da Informação no SENAI**, atualmente cursando o **ensino médio técnico**.
+Tenho **17 anos** e sou estudante de **Tecnologia da Informação no SENAI**, atualmente cursando o **ensino médio técnico**.
 
 Já concluí o curso **CAI de Integração em Nuvem no SENAI Paulo Antônio Skaf** e atualmente também estou estudando **Desenvolvimento em JavaScript**.
 
